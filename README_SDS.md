@@ -1,4 +1,4 @@
-## SDS Satellite Data System Exploration 
+## (SDS) Satellite Data System Exploration 
 
 By Leonard Newbill
 
