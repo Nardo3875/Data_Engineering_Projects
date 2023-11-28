@@ -1,4 +1,4 @@
-*** MARS ROVER IMAGE(S) API: A collection of images from the Mars Rover project from (sol 170), via NASA using the NASA Developer API Key ***
+### MARS ROVER IMAGE(S) API: A collection of images from the Mars Rover project from (sol 170), via NASA using the NASA Developer API Key 
 
 ## Data Source: Website NASA
 "https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?api_key=DEMO_KEY&sol=1000"
