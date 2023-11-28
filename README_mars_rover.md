@@ -6,9 +6,13 @@ By Leonard M. Newbill
 
 ## Import Libraries
 import requests
+
 from PIL import Image
+
 from io import BytesIO
+
 import matplotlib.pyplot as plt
+
 import pandas as pd
 
 ## Fetch data from the Mars Photo API 
