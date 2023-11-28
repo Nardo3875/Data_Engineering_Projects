@@ -7,7 +7,9 @@ https://en.wikipedia.org/wiki/Satellite_Data_System
 
 ## Import Libraries
 from bs4 import BeautifulSoup
+
 import requests
+
 import pandas as pd
 
 ## Extract (Satellite Data System) Data for Website
