@@ -13,10 +13,11 @@ import requests
 import pandas as pd
 
 ## Extract (Satellite Data System) Data for Website
-BeautifulSoup
+This Python script uses the BeautifulSoup library to scrape information from a Wikipedia page about the Satellite Data System.
+Using BeautifulSoup.
 
 ## Create a Pandas DataFrame to Store Extracted Data
-Python progamming language
+A data manipulation library for creating and working with DataFrames. (Python progamming language)
 
-## Show a Description of the Pandas DataFrame
-Python progamming language
+# Summary
+This script fetches a Wikipedia page, extracts data from a specific table using BeautifulSoup, and converts the data into a Pandas DataFrame for further analysis or visualization.
