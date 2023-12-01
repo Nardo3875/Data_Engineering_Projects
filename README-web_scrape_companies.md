@@ -71,9 +71,9 @@ This code creates a DataFrame (cd) to store the data and performs data cleaning 
 
 
 
-
 ## Data Preprocessing and Train a Random Forest Regression Model to Predict Revenue.
-
+(scikit-learn, lxml)
 
 
 ## Generate Two Plots to Assess the Performance of the Regression Model.
+(matplotlib)
