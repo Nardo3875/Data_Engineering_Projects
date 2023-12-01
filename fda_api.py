@@ -19,7 +19,7 @@ def get_drug_interactions(drug1, drug2, api_key):
     try:
         # Make the API request 
         response = requests.get(base_url, params=params, headers=headers)
-        response.raise_for_status()  # Raise an error for bad responses (4xx or 5xx)
+        response.raise_for_status()  
 
         
         data = response.json()
