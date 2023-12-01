@@ -1,5 +1,5 @@
 # Web Scrape Companies
-
+By Leonard Newbill
 
 Sources, Content, Software:
 
