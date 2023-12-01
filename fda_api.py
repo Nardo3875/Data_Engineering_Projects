@@ -51,7 +51,7 @@ def extract_pharm_classes(interactions):
     return extracted_data
 
 if __name__ == "__main__":
-   # Enter your personal API Key bellow 
+   # Enter your personal API Key from the (FDA) bellow. Food & Drug Administration. 
     api_key = ''
 
     # Example Medication
