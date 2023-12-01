@@ -23,7 +23,7 @@ import pandas as pd
 Run the script to fetch data (Python Programming language).
 
 ## Convert to Pandas DataFrame
-Convert it into a Pandas DataFrame,  (Python Programming language).
+Convert it into a Pandas DataFrame (Python Programming language).
 
 ## Display the first three images in the DataFrame
 Display the first three images.(Matplotlib Library)
