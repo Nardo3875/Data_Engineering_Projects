@@ -20,13 +20,13 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 ## Fetch data from the Mars Photo API 
-Python Programming language
+Run the script to fetch data (Python Programming language).
 
 ## Convert to Pandas DataFrame
-Python Programming language
+Convert it into a Pandas DataFrame,  (Python Programming language).
 
 ## Display the first three images in the DataFrame
-Matplotlib Library
+Display the first three images.(Matplotlib Library)
 
 
 
