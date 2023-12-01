@@ -27,6 +27,6 @@ for i, row in enumerate(table_rows):
 # Create a DataFrame
 df = pd.DataFrame(data_rows, columns=columns)
 
-# Show a description of DataFrame
+
 print(df.columns)
 
