@@ -11,6 +11,7 @@
 
 **Code Storage & repository:** [GitHub](<repository_link>)
 
+
 ## Library Installation
 ```bash
 !pip install scikit-learn
@@ -18,9 +19,9 @@
 !pip install pandas
 !pip install requests
 !pip install beautifulSoup4
-
-
-## Library Import
+```
+## Library Import 
+```bash
 from bs4 import BeautifulSoup 
 import requests
 import pandas as pd
@@ -30,6 +31,5 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error
 from sklearn.preprocessing import LabelEncoder
-
-
+```
 
