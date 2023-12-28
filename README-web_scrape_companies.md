@@ -18,3 +18,18 @@
 !pip install pandas
 !pip install requests
 !pip install beautifulSoup4
+
+
+## Library Import
+from bs4 import BeautifulSoup 
+import requests
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_squared_error
+from sklearn.preprocessing import LabelEncoder
+
+
+
