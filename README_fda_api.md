@@ -6,6 +6,7 @@ https://open.fda.gov/apis/
 
 ## Importing Required Libraries
 
+
 ```bash
 requests
 base64
