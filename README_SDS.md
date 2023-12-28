@@ -1,16 +1,15 @@
-## (SDS) Satellite Data System Exploration 
-
+# (SDS) Satellite Data System Exploration 
 By Leonard Newbill
 
 ## Data Source: Website WIKIPEDIA
 https://en.wikipedia.org/wiki/Satellite_Data_System
 
 ## Import Libraries
+```bash
 from bs4 import BeautifulSoup
-
 import requests
-
 import pandas as pd
+```
 
 ## Extract (Satellite Data System) Data for Website
 This Python script uses the BeautifulSoup library to scrape information from a Wikipedia page about the Satellite Data System.
