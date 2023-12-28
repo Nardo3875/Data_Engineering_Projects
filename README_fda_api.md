@@ -8,10 +8,10 @@ https://open.fda.gov/apis/
 
 
 ```bash
-requests
-base64
-matplotlib.pyplot
-pandas
+import requests
+import base64
+import matplotlib.pyplot as plt
+import pandas as pd
 ```
 
 ## Function (get_drug_interactions)
