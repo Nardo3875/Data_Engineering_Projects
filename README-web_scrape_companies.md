@@ -12,7 +12,9 @@ Libraries: See Code Block1
 Code Storage & repository: GitHub
 
 ## Library Installation
-'''!pip install scikit-learn'''
+''' bash
+!pip install scikit-learn
+'''
 
 !pip install lxml
 
