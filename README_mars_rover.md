@@ -1,4 +1,4 @@
-### MARS ROVER IMAGE(S) API: A collection of images from the Mars Rover project from (sol 170), via NASA using the NASA Developer API Key 
+# MARS ROVER IMAGE(S) API: A collection of images from the Mars Rover project from (sol 170), via NASA using the NASA Developer API Key 
 By Leonard M. Newbill
 
 ## Data Source: NASA
@@ -9,15 +9,14 @@ This script fetches and displays images from the Mars Photo API provided by NASA
 It retrieves photos taken by the Curiosity rover on Mars, specifically on a given Martian Sol.
 
 ## Import Libraries
+
+```bash
 import requests
-
 from PIL import Image
-
 from io import BytesIO
-
 import matplotlib.pyplot as plt
-
 import pandas as pd
+```
 
 ## Fetch data from the Mars Photo API 
 Run the script to fetch data (Python Programming language).
