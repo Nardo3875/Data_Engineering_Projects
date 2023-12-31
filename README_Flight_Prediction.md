@@ -51,13 +51,13 @@
 
 ### Technologies and Libraries:
 ```bash
-    pip install Python
-    pip install Django
-    Django REST Framework (for API integration)
-    Machine learning libraries (e.g., scikit-learn)
-    HTML, CSS, JavaScript (for the frontend)
-    Database (SQLite or other, depending on your needs)
-    Hosting platform (Heroku, AWS, etc.)
+        pip install Python
+        pip install Django
+        Django REST Framework (for API integration)
+        Machine learning libraries (e.g., scikit-learn)
+        HTML, CSS, JavaScript (for the frontend)
+        Database (SQLite or other, depending on your needs)
+        Hosting platform (Heroku, AWS, etc.)
 ```
 ### Steps to Start:
     Set up your Django project.
