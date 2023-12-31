@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>Welcome to Flight Predictor</h1>
+    <form action="{% url 'predict_flight_price' %}" method="post">
+        {% csrf_token %}
+        <!-- Add form fields for user input (e.g., location, date) -->
+        <button type="submit">Predict Flight Prices</button>
+    </form>
+    <!-- Display predicted prices here -->
+{% endblock %}
