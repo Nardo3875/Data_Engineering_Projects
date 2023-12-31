@@ -1,4 +1,4 @@
-# Flight Prediction 
+# Flight Price Prediction 
 *By Leonard Newbill*
 
 # Project Outline:
