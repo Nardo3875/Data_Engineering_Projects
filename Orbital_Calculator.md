@@ -1,4 +1,4 @@
-# Orbital Mechanics Code Documentation
+# Orbital Mechanics/Calculator Code Documentation
 ## Orbital_Calculator
 
 ## This documentation provides an overview and explanation of the Python code for calculating and visualizing orbital parameters using matplotlib and numpy.
