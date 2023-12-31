@@ -44,3 +44,11 @@ This toolbox provides a set of tools for orbital mechanics calculations and visu
 - Orbital parameter calculations
 - Visualization of orbital trajectories
 
+## calculate_orbital_parameters
+## visualize_orbit
+
+## Usage
+Define the input orbital parameters: semi_major_axis, eccentricity, inclination, and argument_of_periapsis.
+Call the calculate_orbital_parameters function to obtain the calculated orbital parameters.
+Call the visualize_orbit function to generate and display the orbit visualization.
+
