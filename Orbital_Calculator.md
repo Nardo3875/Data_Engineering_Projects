@@ -1,4 +1,20 @@
-# Orbital_Calculator
+# Orbital Mechanics Code Documentation
+## Orbital_Calculator
+
+## This documentation provides an overview and explanation of the Python code for calculating and visualizing orbital parameters using matplotlib and numpy.
+
+## Contents
+``` bash
+    Introduction
+    Functions
+    calculate_orbital_parameters
+    visualize_orbit
+    Main Execution
+    Usage
+    Example
+```
+## Introduction
+This Python script is designed to calculate and visualize orbital parameters based on input values such as semi-major axis, eccentricity, inclination, and argument of periapsis. The orbital parameters are calculated using standard orbital mechanics equations, and the resulting orbit is visualized using matplotlib.
 
 ## In the src directory, create a file named orbital_calculator.py. 
 This file will contain functions for orbital parameter calculations and visualizations.
