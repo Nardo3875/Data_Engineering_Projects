@@ -1,4 +1,4 @@
-# Orbital Mechanics Toolbox
+# Orbital_Calculator
 
 ## In the src directory, create a file named orbital_calculator.py. 
 This file will contain functions for orbital parameter calculations and visualizations.
